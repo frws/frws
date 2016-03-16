@@ -15,7 +15,8 @@ Setelah membaca argumen di  link tersebut, saya setuju dengan pendapat turing di
 Istilah pada bidang AI dan Contoh
 
 1. Pengolahan Bahasa Alami (Natural Language Processing)
-Natural Language Processing (NLP) adalah salah satu bidang ilmu komputer, kecerdasan buatan, dan bahasa (linguistik) yang berkaitan dengan interaksi antara komputer dan bahasa alami manusia, seperti bahasa Indonesia atau bahasa Inggris. Tujuan utama dari studi NLP adalah membuat mesin yang mampu mengerti dan memahami makna bahasa manusia lalu memberikan respon yang sesuai
+	Natural Language Processing (NLP) adalah salah satu bidang ilmu komputer, kecerdasan buatan, dan bahasa (linguistik) yang berkaitan dengan interaksi antara komputer dan bahasa alami manusia, seperti bahasa Indonesia atau bahasa Inggris. Tujuan utama dari studi NLP adalah membuat mesin yang mampu mengerti dan memahami makna bahasa manusia lalu memberikan respon yang sesuai
+	
 	Translator bahasa alami ke bahasa buatan, yaitu translator yang mengubah perintah-perintah dalam bahasa alami menjadi bahasa buatan yang dapat dieksekusi oleh mesin atau komputer. Sebagai contoh, translator yang memungkinkan kita memberikan perintah bahasa alami kepada komputer. Dengansistem seperti ini, pengguna sistem dapat memberikan perintah dengan bahasa sehari-hari, misalnya, untuk menghapus semua file, pengguna cukup memberikan perintah
 
 
@@ -53,12 +54,11 @@ Contoh
 Definisi
   Computer Vision merupakan  salah satu cabang ilmu pengetahuan yang mempelajari bagaimana komputer dapat mengenali obyek yang diamati/ diobservasi. Cabang ilmu ini bersama Intelijensia Semu (Artificial Intelligence) akan mampu menghasilkan sistem intelijen visual (Visual Intelligence System).
 
-Computer Vision adalah kombinasi antara Pengolahan Citra dan Pengenalan Pola yang hubungan antara ketiganya dapat dilihat pada gambar berikut.
+	Computer Vision adalah kombinasi antara Pengolahan Citra dan Pengenalan Pola yang hubungan antara ketiganya dapat dilihat pada gambar berikut.
 
-Pengolahan Citra (Image Processing) merupakan bidang yang berhubungan dengan proses transformasi citra/gambar (image). Proses ini bertujuan untuk mendapatkan kualitas citra yang lebih baik. 
+	Pengolahan Citra (Image Processing) merupakan bidang yang berhubungan dengan proses transformasi citra/gambar (image). Proses ini bertujuan untuk mendapatkan kualitas citra yang lebih baik. 
 
-
-Sedangkan Pengenalan Pola (Pattern Recognition), bidang ini berhubungan dengan proses identifikasi obyek pada citra atau interpretasi citra. Proses ini bertujuan untuk mengekstrak informasi/pesan yang disampaikan oleh gambar/citra.
+	Sedangkan Pengenalan Pola (Pattern Recognition), bidang ini berhubungan dengan proses identifikasi obyek pada citra atau interpretasi citra. Proses ini bertujuan untuk mengekstrak informasi/pesan yang disampaikan oleh gambar/citra.
 
 Contoh
 
@@ -75,8 +75,6 @@ Beberapa applikasi yang dihasilkan dari Computer Vision antara lain :
 Definisi
   Kecerdasan Buatan (Artificial Intelligence) dalam robotik adalah suatu algorithma (yang dipandang) cerdas yang diprogramkan ke dalam kontroler robot. Pengertian cerdas di sini sangat relatif, karena tergantung dari sisi mana sesorang memandang. Dalam literatur, orang pertama yang dianggap sebagai pionir dalam mengembangkan mesin cerdas (intelligence machine) adalah Alan Turing, sorang matematikawan asal Inggris yang memulai karir saintifiknya di awal tahun 1930-an. Di tahun 1937 ia menulis paper tentang konsep mesin universal (universal machine). Kemudian, selama perang dunia ke-2 ia dikenal sebagai pemain kunci dalam penciptaan Enigma, sebuah mesin encoding milik militer Jerman. Ia dikenal juga sebagai pencipta pertama program komputer untuk bermain catur, yang kemudian program ini dikembangkan dan dimainkan di komputer milik Manchester University. Karya-karyanya ini, yang kemudian dikenal sebagai Turing Machine, dewasa ini masih dapat ditemukan aplikasi-aplikasinya. Beberapa tulisannya yang berkaitan dengan prediksi perkembangan komputer di masa datang akhirnya juga ada yang terbukti. Misalnya tentang ramalannya bahwa di tahun 2000-an komputer akan mampu melakukan percakapan dengan manusia. Meski tidak ditemukan dalam paper-papernya tentang istilah tsb, para peneliti di bidang ini sepakat untuk menobatkan Turing sebagai orang pertama yang mengembangkan kecerdasan buatan.
 Dalam aplikasi lain, AI juga dapat digunakan untuk membantu proses identifikasi model dari sistem robot, model lingkungan atau gangguan, model dari tugas robot (task) seperti membuat rencana trajektori, dan sebagainya. Dalam hal ini konsep AI tidak digunakan secara langsung (direct) ke dalam kontroler, namun lebih bersifat tak langsung (indirect).
-
-
 
 Berdasarkan penggunaannya robot dapat digolongkan sebagai:
 -   Robot pribadi (personal robots)
