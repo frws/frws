@@ -64,12 +64,13 @@ Contoh
 
 Beberapa applikasi yang dihasilkan dari Computer Vision antara lain :
 
-1. Robotic – navigation and control
-2. Medical Image Analysis – measurement and interpretation of many types of   image  
-3. Industrial Inspection – measurement, fault checking, process control 
-4. Optical Character Recognition – text reading 
-5. Remote Sensing – land use and environmental monitoring
-6. Psychology, AI – exploring representation and computation in natural vision
+- Robotic – navigation and control
+- Medical Image Analysis – measurement and interpretation of many types of   image  
+- Industrial Inspection – measurement, fault checking, process control 
+- Optical Character Recognition – text reading 
+- Remote Sensing – land use and environmental monitoring
+- Psychology, AI – exploring representation and computation in natural vision
+
 
 6. ROBOTIC
 Definisi
